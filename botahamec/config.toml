@@ -1,4 +1,4 @@
-baseURL = "http://botahamec.github.io/"
+baseURL = "https://botahamec.github.io/"
 theme = "hugo-coder"
 title = "Botahamec"
 languageCode = "en-us"
