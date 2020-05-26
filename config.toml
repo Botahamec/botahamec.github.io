@@ -3,6 +3,7 @@ theme = "hugo-coder"
 title = "Botahamec"
 languageCode = "en-us"
 defaultcontentlanguage = "en"
+publishDir = "."
 
 [params]
 author = "Mike White"
