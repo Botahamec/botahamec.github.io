@@ -8,7 +8,7 @@ publishDir = ".."
 [params]
 author = "Mike White"
 info = "Hobbyist Computer Science Student"
-description = "JMike White's personal website"
+description = "Mike White's personal website"
 keywords = "blog,developer,personal"
 avatarurl = "images/bota1.jpg"
 
