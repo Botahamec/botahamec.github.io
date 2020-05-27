@@ -1,0 +1,9 @@
+[submodule "botahamec/themes/academia-hugo"]
+	path = botahamec/themes/academia-hugo
+	url = https://github.com/themefisher/Academia-hugo
+[submodule "botahamec/themes/terminal"]
+	path = botahamec/themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal
+[submodule "botahamec/themes/coder-portfolio"]
+	path = botahamec/themes/coder-portfolio
+	url = https://github.com/naro143/hugo-coder-portfolio/
