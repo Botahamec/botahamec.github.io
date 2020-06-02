@@ -7,24 +7,15 @@
     <meta http-equiv="Content-Language" content="en">
 
     <meta name="author" content="Mike White">
-    <meta name="description" content="A crate for terminal colors and styles
-use chalk_rs::Chalk; let mut chalk = Chalk::new(); chalk.red().println(&amp;&#34;This text is red&#34;); chalk.bold().println(&amp;&#34;Now it&#39;s red AND bold&#34;); That&rsquo;s an example of basic color. There are three types of color in chalk: BasicChalk, AnsiChalk, and RgbChalk.
-use chalk_rs::Chalk; let mut chalk = Chalk::new(); chalk.ansi(56).println(&amp;&#34;Purple-ish&#34;); chalk.rgb(25, 125, 63).println(&amp;&#34;This color is ugly&#34;); Chalk can aldo do styling! Here&rsquo;s an example:
-use chalk_rs::Chalk; let mut chalk = Chalk::new(); chalk.">
+    <meta name="description" content="A crate for terminal colors and styles">
     <meta name="keywords" content="blog,developer,personal">
 
     <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="chalk-rs"/>
-<meta name="twitter:description" content="A crate for terminal colors and styles
-use chalk_rs::Chalk; let mut chalk = Chalk::new(); chalk.red().println(&amp;&#34;This text is red&#34;); chalk.bold().println(&amp;&#34;Now it&#39;s red AND bold&#34;); That&rsquo;s an example of basic color. There are three types of color in chalk: BasicChalk, AnsiChalk, and RgbChalk.
-use chalk_rs::Chalk; let mut chalk = Chalk::new(); chalk.ansi(56).println(&amp;&#34;Purple-ish&#34;); chalk.rgb(25, 125, 63).println(&amp;&#34;This color is ugly&#34;); Chalk can aldo do styling! Here&rsquo;s an example:
-use chalk_rs::Chalk; let mut chalk = Chalk::new(); chalk."/>
+<meta name="twitter:description" content="A crate for terminal colors and styles"/>
 
     <meta property="og:title" content="chalk-rs" />
-<meta property="og:description" content="A crate for terminal colors and styles
-use chalk_rs::Chalk; let mut chalk = Chalk::new(); chalk.red().println(&amp;&#34;This text is red&#34;); chalk.bold().println(&amp;&#34;Now it&#39;s red AND bold&#34;); That&rsquo;s an example of basic color. There are three types of color in chalk: BasicChalk, AnsiChalk, and RgbChalk.
-use chalk_rs::Chalk; let mut chalk = Chalk::new(); chalk.ansi(56).println(&amp;&#34;Purple-ish&#34;); chalk.rgb(25, 125, 63).println(&amp;&#34;This color is ugly&#34;); Chalk can aldo do styling! Here&rsquo;s an example:
-use chalk_rs::Chalk; let mut chalk = Chalk::new(); chalk." />
+<meta property="og:description" content="A crate for terminal colors and styles" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://botahamec.github.io/projects/chalk_rs/" />
 <meta property="article:published_time" content="2020-05-06T00:00:00+00:00" />
@@ -69,7 +60,7 @@ use chalk_rs::Chalk; let mut chalk = Chalk::new(); chalk." />
     <link rel="icon" type="image/png" href="https://botahamec.github.io/images/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="https://botahamec.github.io/images/favicon-16x16.png" sizes="16x16">
 
-    <meta name="generator" content="Hugo 0.70.0" />
+    <meta name="generator" content="Hugo 0.71.1" />
   </head>
 
   
@@ -114,21 +105,50 @@ use chalk_rs::Chalk; let mut chalk = Chalk::new(); chalk." />
     </header>
 
     <p>A crate for terminal colors and styles</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-rust" data-lang="rust"><span style="color:#66d9ef">use</span> chalk_rs::Chalk;
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-rust" data-lang="rust"><span style="color:#66d9ef">use</span> chalk_rs::Chalk;
 <span style="color:#66d9ef">let</span> <span style="color:#66d9ef">mut</span> chalk <span style="color:#f92672">=</span> Chalk::new();
 chalk.red().println(<span style="color:#f92672">&amp;</span><span style="color:#e6db74">&#34;This text is red&#34;</span>);
 chalk.bold().println(<span style="color:#f92672">&amp;</span><span style="color:#e6db74">&#34;Now it&#39;s red AND bold&#34;</span>);
-</code></pre></div><p>That&rsquo;s an example of basic color. There are three types of color in chalk:
+</code></pre></td></tr></table>
+</div>
+</div><p>That&rsquo;s an example of basic color. There are three types of color in chalk:
 BasicChalk, AnsiChalk, and RgbChalk.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-rust" data-lang="rust"><span style="color:#66d9ef">use</span> chalk_rs::Chalk;
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-rust" data-lang="rust"><span style="color:#66d9ef">use</span> chalk_rs::Chalk;
 <span style="color:#66d9ef">let</span> <span style="color:#66d9ef">mut</span> chalk <span style="color:#f92672">=</span> Chalk::new();
 chalk.ansi(<span style="color:#ae81ff">56</span>).println(<span style="color:#f92672">&amp;</span><span style="color:#e6db74">&#34;Purple-ish&#34;</span>);
 chalk.rgb(<span style="color:#ae81ff">25</span>, <span style="color:#ae81ff">125</span>, <span style="color:#ae81ff">63</span>).println(<span style="color:#f92672">&amp;</span><span style="color:#e6db74">&#34;This color is ugly&#34;</span>);
-</code></pre></div><p>Chalk can aldo do <em>styling</em>! Here&rsquo;s an example:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-rust" data-lang="rust"><span style="color:#66d9ef">use</span> chalk_rs::Chalk;
+</code></pre></td></tr></table>
+</div>
+</div><p>Chalk can aldo do <em>styling</em>! Here&rsquo;s an example:</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-rust" data-lang="rust"><span style="color:#66d9ef">use</span> chalk_rs::Chalk;
 <span style="color:#66d9ef">let</span> <span style="color:#66d9ef">mut</span> chalk <span style="color:#f92672">=</span> Chalk::new();
 chalk.bold().println(<span style="color:#f92672">&amp;</span><span style="color:#e6db74">&#34;Bold!&#34;</span>);
-</code></pre></div>
+</code></pre></td></tr></table>
+</div>
+</div>
   </article>
 </section>
 

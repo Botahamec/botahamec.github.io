@@ -1,8 +1,8 @@
-+++
-title = "Pronoun Testing Grounds"
-slug = "pronoun_test"
-date = "2020-04-24"
-+++
+---
+title: "Pronoun Testing Grounds"
+date : "2020-04-24"
+description: "Play around with your pronouns!"
+---
 
 https://botahamec.github.io/pronoun_test
 

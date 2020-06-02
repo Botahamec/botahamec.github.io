@@ -18,9 +18,8 @@
       
       <guid>https://botahamec.github.io/projects/chalk_rs/</guid>
       <description>A crate for terminal colors and styles
-use chalk_rs::Chalk; let mut chalk = Chalk::new(); chalk.red().println(&amp;amp;&amp;#34;This text is red&amp;#34;); chalk.bold().println(&amp;amp;&amp;#34;Now it&amp;#39;s red AND bold&amp;#34;); That&amp;rsquo;s an example of basic color. There are three types of color in chalk: BasicChalk, AnsiChalk, and RgbChalk.
-use chalk_rs::Chalk; let mut chalk = Chalk::new(); chalk.ansi(56).println(&amp;amp;&amp;#34;Purple-ish&amp;#34;); chalk.rgb(25, 125, 63).println(&amp;amp;&amp;#34;This color is ugly&amp;#34;); Chalk can aldo do styling! Here&amp;rsquo;s an example:
-use chalk_rs::Chalk; let mut chalk = Chalk::new(); chalk.</description>
+1 2 3 4  use chalk_rs::Chalk; let mut chalk = Chalk::new(); chalk.red().println(&amp;amp;&amp;#34;This text is red&amp;#34;); chalk.bold().println(&amp;amp;&amp;#34;Now it&amp;#39;s red AND bold&amp;#34;);   That&amp;rsquo;s an example of basic color. There are three types of color in chalk: BasicChalk, AnsiChalk, and RgbChalk.
+1 2 3 4  use chalk_rs::Chalk; let mut chalk = Chalk::new(); chalk.ansi(56).println(&amp;amp;&amp;#34;Purple-ish&amp;#34;); chalk.rgb(25, 125, 63).println(&amp;amp;&amp;#34;This color is ugly&amp;#34;);   Chalk can aldo do styling!</description>
     </item>
     
     <item>

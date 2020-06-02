@@ -1,8 +1,8 @@
-+++
-title = "chalk-rs"
-slug = "chalk_rs"
-date = "2020-05-06"
-+++
+---
+title: "chalk-rs"
+date : "2020-05-06"
+description: "A crate for terminal colors and styles"
+---
 
 A crate for terminal colors and styles
 

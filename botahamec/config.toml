@@ -4,6 +4,7 @@ title = "Botahamec"
 languageCode = "en-us"
 defaultcontentlanguage = "en"
 publishDir = ".."
+enableEmoji = true
 
 [params]
 author = "Mike White"
@@ -53,3 +54,6 @@ url = "/projects/"
 name = "Blog"
 weight = 2
 url = "/posts/"
+
+[markup.highlight]
+lineNos = true

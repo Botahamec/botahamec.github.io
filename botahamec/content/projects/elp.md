@@ -1,8 +1,8 @@
-+++
-title = "Elp"
-slug = "elp"
-date = "2019-09-08"
-+++
+---
+title: "Elp"
+date : "2019-09-08"
+description : "A helper for Git"
+---
 
 A helper for git to make some mundane tasks simpler. When you create an empty Github repository normally, you need to do five commands to get your local folder on the remote repository. This application simplifies things dramatically by giving commands which do these things for you automatically.
 
