@@ -2,6 +2,7 @@
 title: "New Website! Hooray!"
 date : "2020-06-02T10:13:42-04:00"
 tags : ["site", "hugo", "web"]
+categories: ["announcements"]
 ---
 
 Hello, everyone! Welcome to my new site. If you've seen the old one, then you know that looked remarkably terrible. Not only did it look like a dump, it was horrible to work with. Have you ever tried doing pure HTML code blocks? It's a pain. Now that issue is fixed by using ***__MARKDOWN__!*** Look at this:

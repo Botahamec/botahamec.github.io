@@ -6,10 +6,20 @@
     <description>Recent content on Botahamec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jun 2020 10:13:42 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2020 10:13:42 -0400</lastBuildDate>
     
 	<atom:link href="https://botahamec.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ideas for Projects to Do</title>
+      <link>https://botahamec.github.io/posts/20_06_03_project_ideas/</link>
+      <pubDate>Wed, 03 Jun 2020 10:13:42 -0400</pubDate>
+      
+      <guid>https://botahamec.github.io/posts/20_06_03_project_ideas/</guid>
+      <description>I have a lot of ideas for future projects. I&amp;rsquo;ll probably never get to do most of them. So let me list some of them so that you may give them a try.
+Sudoku Solver Yes, I know many people have done this already. I really like the idea though so I wanna try it without looking at other people&amp;rsquo;s solutions. Of course, you&amp;rsquo;re free to do it in whatever way you like, but you&amp;rsquo;ll probably need a GUI for it.</description>
+    </item>
     
     <item>
       <title>New Website! Hooray!</title>
