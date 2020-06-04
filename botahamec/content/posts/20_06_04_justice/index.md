@@ -5,6 +5,8 @@ tags: ["criminal justice", "police brutality"]
 categories: ["politics"]
 ---
 
+This article is a mess. Sorry.
+
 # Background
 
 Initially, I was planning on skipping this part. Partly because I figured everyone would know what I'm talking about, and partly because I don't really know how to explain it. Although, people reading this in the future will probably need an explanation, so here it is. Instead of explaining it myself, let others explain it for me. Here's a bunch of videos you can watch:
@@ -39,7 +41,7 @@ So, what can we do? We can try to stop racism, which is bold. We can try holding
 
 I think I'm supposed to build up my credibility by saying things people should agree with before I make such an outrageous claim as to say that we can end racism. So let's start with this.
 
-First of all, nobody is denying thatthe police have a tough jb. I also agree that it's a dangerous job. Unfortunately, the number of shootings have gotten out of hand, which means we can't just ignore it.
+First of all, nobody is denying that the police have a tough job. I also agree that it's a dangerous job. Unfortunately, the number of shootings have gotten out of hand, which means we can't just ignore it.
 
 It's easy to say that the vast majority of police officers are good, but hard to validate. We don't have a lot of records which can help us show what fraction of officers are rotten(The former FBI director, James Comey, [can attest to this](www.washingtonpost.com/national/fbi-director-calls-lack-of-data-on-police-shootings-ridiculous-embarrassing/2015/10/07/c0ebaf7a-6d16-11e5-b31c-d80d62b53e28_story.html)). The best research we have comes from a researcher who set up a bunch of Google Alerts (so already we're off to a bad start). He found 77 murder charges involving police misconduct and [only 26 were convicted](https://www.cnn.com/2016/09/23/us/police-involved-shooting-charges/index.html).
 
