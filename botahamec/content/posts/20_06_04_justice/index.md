@@ -9,7 +9,7 @@ This article is a mess. Sorry.
 
 # Background
 
-Initially, I was planning on skipping this part. Partly because I figured everyone would know what I'm talking about, and partly because I don't really know how to explain it. Although, people reading this in the future will probably need an explanation, so here it is. Instead of explaining it myself, let others explain it for me. Here's a bunch of videos you can watch:
+Initially, I was planning on skipping this part. Partly because I figured everyone would know what I'm talking about, and partly because I don't really know how to explain it. Although, people reading this in the future will probably need an explanation, so here it is. Instead of explaining it myself, I'll let others explain it for me. Here's a bunch of videos you can watch:
 
 {{< youtube lAgD8pvdQ7k >}}
 -
