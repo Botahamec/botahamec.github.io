@@ -9,7 +9,7 @@ categories = ["philosophy"]
 
 Last semester, I took a class called, *Intro to Moral Issues*. One of the assignments we did was a "Contemporary Controversy". Each person in the class had to pick a philosophical or political topic and write an essay to convince the class of their position. The professor made it clear that topics relating to media are allowed[^1].
 
-As it happened, the week before I found out about this, I became curious and read [all of the rules of the Death Note](https://deathnote.fandom.com/wiki/Rules_of_the_Death_Note). This made me watch the entire series again. When I heard about the contemporary controversies, I decided to use Death Note as my topic[^2][^3]. The professor was skeptical, but he let me do it[^10].
+As it happened, the week before I found out about this, I became curious and read [all of the rules of the Death Note](https://deathnote.fandom.com/wiki/Rules_of_the_Death_Note). This made me watch the entire series again. When I heard about the contemporary controversies, I decided to use Death Note as my topic[^2] [^3]. The professor was skeptical, but he let me do it[^10].
 
 I decided that since I haven't posted in a while, now would be a great opportunity to post it here. I added some footnotes and links where I felt it was necessary. I also should note that there are some very minor spoilers. This shouldn't impact your viewing experience of the show too much, but [the entire series is on Netflix](https://www.netflix.com/title/70204970) if you want to watch that first. Also, if you end up in my professor's class, you're not allowed to copy my essay, obviously.
 
