@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Language" content="en">
+
+    <meta name="author" content="Mike White">
+    <meta name="description" content="A ranking of every country, ranked by population per capita">
+    <meta name="keywords" content="blog,developer,personal">
+
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="A Ranking of People Per Capita"/>
+<meta name="twitter:description" content="A ranking of every country, ranked by population per capita"/>
+
+    <meta property="og:title" content="A Ranking of People Per Capita" />
+<meta property="og:description" content="A ranking of every country, ranked by population per capita" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://botahamec.github.io/posts/20_08_03_people_per_capita/" />
+<meta property="article:published_time" content="2020-08-03T11:33:03-04:00" />
+<meta property="article:modified_time" content="2020-08-03T11:33:03-04:00" />
+
+
+    
+      <base href="https://botahamec.github.io/posts/20_08_03_people_per_capita/">
+    
+    <title>
+  A Ranking of People Per Capita · Botahamec
+</title>
+
+    
+      <link rel="canonical" href="https://botahamec.github.io/posts/20_08_03_people_per_capita/">
+    
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" integrity="sha384-Bfad6CLCknfcloXFOyFnlgtENryhrpZCe29RTifKEixXQZ38WheV+i/6YWSzkz3V" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
+
+    
+      
+      
+      <link rel="stylesheet" href="/css/coder.min.a4f332213a21ce8eb521670c614470c58923aaaf385e2a73982c31dd7642decb.css" integrity="sha256-pPMyITohzo61IWcMYURwxYkjqq84XipzmCwx3XZC3ss=" crossorigin="anonymous" media="screen" />
+    
+
+    
+
+    
+      
+        
+        
+        <link rel="stylesheet" href="/css/coder-dark.min.e78e80fc3a585a4d1c8fc7f58623b6ff852411e38431a9cd1792877ecaa160f6.css" integrity="sha256-546A/DpYWk0cj8f1hiO2/4UkEeOEManNF5KHfsqhYPY=" crossorigin="anonymous" media="screen" />
+      
+    
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="https://botahamec.github.io/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://botahamec.github.io/images/favicon-16x16.png" sizes="16x16">
+
+    <meta name="generator" content="Hugo 0.73.0" />
+  </head>
+
+  
+  
+    
+  
+  <body class="colorscheme-dark">
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="/">
+      Botahamec
+    </a>
+    
+    <input type="checkbox" id="menu-toggle" />
+    <label class="menu-button float-right" for="menu-toggle"><i class="fas fa-bars"></i></label>
+    <ul class="navigation-list">
+      
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="https://botahamec.github.io/projects/">Projects</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="https://botahamec.github.io/posts/">Blog</a>
+          </li>
+        
+      
+      
+    </ul>
+    
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">A Ranking of People Per Capita</h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fas fa-calendar"></i>
+              <time datetime='2020-08-03T11:33:03-04:00'>
+                August 3, 2020
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fas fa-clock"></i>
+              9-minute read
+            </span>
+          </div>
+          <div class="categories">
+  <i class="fas fa-folder"></i>
+    <a href="/categories/funny/">funny</a></div>
+
+          <div class="tags">
+  <i class="fas fa-tag"></i>
+    <a href="/tags/population/">population</a></div>
+
+        </div>
+      </header>
+
+      <div>
+        
+        <h1 id="a-ranking-of-people-per-capita">A Ranking of People Per Capita</h1>
+<p>Recently, I came across a tweet, which inspired me.</p>
+<p><img src="tweet.png" alt="A tweet talking about Brazil and US saying, &ldquo;people per capita, yes. it is comparable&rdquo;"></p>
+<p>This made me want to fact-check it. Are the United States and Brazil really comparable in terms of number of people per capita? This will require some investigation.</p>
+<p>I created a <a href="https://github.com/botahamec/pop_per_capita">TypeScript script</a> to generate the numbers, so here&rsquo;s then entire ranking:</p>
+<ol>
+<li>Afghanistan - 1 person per capita</li>
+<li>Albania - 1 person per capita</li>
+<li>Algeria - 1 person per capita</li>
+<li>American Samoa - 1 person per capita</li>
+<li>Andorra - 1 person per capita</li>
+<li>Angola - 1 person per capita</li>
+<li>Anguilla - 1 person per capita</li>
+<li>Antarctica - 1 person per capita</li>
+<li>Antigua and Barbuda - 1 person per capita</li>
+<li>Argentina - 1 person per capita</li>
+<li>Armenia - 1 person per capita</li>
+<li>Aruba - 1 person per capita</li>
+<li>Australia - 1 person per capita</li>
+<li>Austria - 1 person per capita</li>
+<li>Azerbaijan - 1 person per capita</li>
+<li>Bahamas - 1 person per capita</li>
+<li>Bahrain - 1 person per capita</li>
+<li>Bangladesh - 1 person per capita</li>
+<li>Barbados - 1 person per capita</li>
+<li>Belarus - 1 person per capita</li>
+<li>Belgium - 1 person per capita</li>
+<li>Belize - 1 person per capita</li>
+<li>Benin - 1 person per capita</li>
+<li>Bermuda - 1 person per capita</li>
+<li>Bhutan - 1 person per capita</li>
+<li>Bolivia (Plurinational State of) - 1 person per capita</li>
+<li>Bonaire, Sint Eustatius and Saba - 1 person per capita</li>
+<li>Bosnia and Herzegovina - 1 person per capita</li>
+<li>Botswana - 1 person per capita</li>
+<li>Bouvet Island - 1 person per capita</li>
+<li>Brazil - 1 person per capita</li>
+<li>British Indian Ocean Territory - 1 person per capita</li>
+<li>Brunei Darussalam - 1 person per capita</li>
+<li>Bulgaria - 1 person per capita</li>
+<li>Burkina Faso - 1 person per capita</li>
+<li>Burundi - 1 person per capita</li>
+<li>Cabo Verde - 1 person per capita</li>
+<li>Cambodia - 1 person per capita</li>
+<li>Cameroon - 1 person per capita</li>
+<li>Canada - 1 person per capita</li>
+<li>Cayman Islands - 1 person per capita</li>
+<li>Central African Republic - 1 person per capita</li>
+<li>Chad - 1 person per capita</li>
+<li>Chile - 1 person per capita</li>
+<li>China - 1 person per capita</li>
+<li>Christmas Island - 1 person per capita</li>
+<li>Cocos (Keeling) Islands - 1 person per capita</li>
+<li>Colombia - 1 person per capita</li>
+<li>Comoros - 1 person per capita</li>
+<li>Congo - 1 person per capita</li>
+<li>Congo (Democratic Republic of the) - 1 person per capita</li>
+<li>Cook Islands - 1 person per capita</li>
+<li>Costa Rica - 1 person per capita</li>
+<li>Croatia - 1 person per capita</li>
+<li>Cuba - 1 person per capita</li>
+<li>Curaçao - 1 person per capita</li>
+<li>Cyprus - 1 person per capita</li>
+<li>Czech Republic - 1 person per capita</li>
+<li>Côte d&rsquo;Ivoire - 1 person per capita</li>
+<li>Denmark - 1 person per capita</li>
+<li>Djibouti - 1 person per capita</li>
+<li>Dominica - 1 person per capita</li>
+<li>Dominican Republic - 1 person per capita</li>
+<li>Ecuador - 1 person per capita</li>
+<li>Egypt - 1 person per capita</li>
+<li>El Salvador - 1 person per capita</li>
+<li>Equatorial Guinea - 1 person per capita</li>
+<li>Eritrea - 1 person per capita</li>
+<li>Estonia - 1 person per capita</li>
+<li>Ethiopia - 1 person per capita</li>
+<li>Falkland Islands (Malvinas) - 1 person per capita</li>
+<li>Faroe Islands - 1 person per capita</li>
+<li>Fiji - 1 person per capita</li>
+<li>Finland - 1 person per capita</li>
+<li>France - 1 person per capita</li>
+<li>French Guiana - 1 person per capita</li>
+<li>French Polynesia - 1 person per capita</li>
+<li>French Southern Territories - 1 person per capita</li>
+<li>Gabon - 1 person per capita</li>
+<li>Gambia - 1 person per capita</li>
+<li>Georgia - 1 person per capita</li>
+<li>Germany - 1 person per capita</li>
+<li>Ghana - 1 person per capita</li>
+<li>Gibraltar - 1 person per capita</li>
+<li>Greece - 1 person per capita</li>
+<li>Greenland - 1 person per capita</li>
+<li>Grenada - 1 person per capita</li>
+<li>Guadeloupe - 1 person per capita</li>
+<li>Guam - 1 person per capita</li>
+<li>Guatemala - 1 person per capita</li>
+<li>Guernsey - 1 person per capita</li>
+<li>Guinea - 1 person per capita</li>
+<li>Guinea-Bissau - 1 person per capita</li>
+<li>Guyana - 1 person per capita</li>
+<li>Haiti - 1 person per capita</li>
+<li>Heard Island and McDonald Islands - 1 person per capita</li>
+<li>Holy See - 1 person per capita</li>
+<li>Honduras - 1 person per capita</li>
+<li>Hong Kong - 1 person per capita</li>
+<li>Hungary - 1 person per capita</li>
+<li>Iceland - 1 person per capita</li>
+<li>India - 1 person per capita</li>
+<li>Indonesia - 1 person per capita</li>
+<li>Iran (Islamic Republic of) - 1 person per capita</li>
+<li>Iraq - 1 person per capita</li>
+<li>Ireland - 1 person per capita</li>
+<li>Isle of Man - 1 person per capita</li>
+<li>Israel - 1 person per capita</li>
+<li>Italy - 1 person per capita</li>
+<li>Jamaica - 1 person per capita</li>
+<li>Japan - 1 person per capita</li>
+<li>Jersey - 1 person per capita</li>
+<li>Jordan - 1 person per capita</li>
+<li>Kazakhstan - 1 person per capita</li>
+<li>Kenya - 1 person per capita</li>
+<li>Kiribati - 1 person per capita</li>
+<li>Korea (Democratic People&rsquo;s Republic of) - 1 person per capita</li>
+<li>Korea (Republic of) - 1 person per capita</li>
+<li>Kuwait - 1 person per capita</li>
+<li>Kyrgyzstan - 1 person per capita</li>
+<li>Lao People&rsquo;s Democratic Republic - 1 person per capita</li>
+<li>Latvia - 1 person per capita</li>
+<li>Lebanon - 1 person per capita</li>
+<li>Lesotho - 1 person per capita</li>
+<li>Liberia - 1 person per capita</li>
+<li>Libya - 1 person per capita</li>
+<li>Liechtenstein - 1 person per capita</li>
+<li>Lithuania - 1 person per capita</li>
+<li>Luxembourg - 1 person per capita</li>
+<li>Macao - 1 person per capita</li>
+<li>Macedonia (the former Yugoslav Republic of) - 1 person per capita</li>
+<li>Madagascar - 1 person per capita</li>
+<li>Malawi - 1 person per capita</li>
+<li>Malaysia - 1 person per capita</li>
+<li>Maldives - 1 person per capita</li>
+<li>Mali - 1 person per capita</li>
+<li>Malta - 1 person per capita</li>
+<li>Marshall Islands - 1 person per capita</li>
+<li>Martinique - 1 person per capita</li>
+<li>Mauritania - 1 person per capita</li>
+<li>Mauritius - 1 person per capita</li>
+<li>Mayotte - 1 person per capita</li>
+<li>Mexico - 1 person per capita</li>
+<li>Micronesia (Federated States of) - 1 person per capita</li>
+<li>Moldova (Republic of) - 1 person per capita</li>
+<li>Monaco - 1 person per capita</li>
+<li>Mongolia - 1 person per capita</li>
+<li>Montenegro - 1 person per capita</li>
+<li>Montserrat - 1 person per capita</li>
+<li>Morocco - 1 person per capita</li>
+<li>Mozambique - 1 person per capita</li>
+<li>Myanmar - 1 person per capita</li>
+<li>Namibia - 1 person per capita</li>
+<li>Nauru - 1 person per capita</li>
+<li>Nepal - 1 person per capita</li>
+<li>Netherlands - 1 person per capita</li>
+<li>New Caledonia - 1 person per capita</li>
+<li>New Zealand - 1 person per capita</li>
+<li>Nicaragua - 1 person per capita</li>
+<li>Niger - 1 person per capita</li>
+<li>Nigeria - 1 person per capita</li>
+<li>Niue - 1 person per capita</li>
+<li>Norfolk Island - 1 person per capita</li>
+<li>Northern Mariana Islands - 1 person per capita</li>
+<li>Norway - 1 person per capita</li>
+<li>Oman - 1 person per capita</li>
+<li>Pakistan - 1 person per capita</li>
+<li>Palau - 1 person per capita</li>
+<li>Palestine, State of - 1 person per capita</li>
+<li>Panama - 1 person per capita</li>
+<li>Papua New Guinea - 1 person per capita</li>
+<li>Paraguay - 1 person per capita</li>
+<li>Peru - 1 person per capita</li>
+<li>Philippines - 1 person per capita</li>
+<li>Pitcairn - 1 person per capita</li>
+<li>Poland - 1 person per capita</li>
+<li>Portugal - 1 person per capita</li>
+<li>Puerto Rico - 1 person per capita</li>
+<li>Qatar - 1 person per capita</li>
+<li>Republic of Kosovo - 1 person per capita</li>
+<li>Romania - 1 person per capita</li>
+<li>Russian Federation - 1 person per capita</li>
+<li>Rwanda - 1 person per capita</li>
+<li>Réunion - 1 person per capita</li>
+<li>Saint Barthélemy - 1 person per capita</li>
+<li>Saint Helena, Ascension and Tristan da Cunha - 1 person per capita</li>
+<li>Saint Kitts and Nevis - 1 person per capita</li>
+<li>Saint Lucia - 1 person per capita</li>
+<li>Saint Martin (French part) - 1 person per capita</li>
+<li>Saint Pierre and Miquelon - 1 person per capita</li>
+<li>Saint Vincent and the Grenadines - 1 person per capita</li>
+<li>Samoa - 1 person per capita</li>
+<li>San Marino - 1 person per capita</li>
+<li>Sao Tome and Principe - 1 person per capita</li>
+<li>Saudi Arabia - 1 person per capita</li>
+<li>Senegal - 1 person per capita</li>
+<li>Serbia - 1 person per capita</li>
+<li>Seychelles - 1 person per capita</li>
+<li>Sierra Leone - 1 person per capita</li>
+<li>Singapore - 1 person per capita</li>
+<li>Sint Maarten (Dutch part) - 1 person per capita</li>
+<li>Slovakia - 1 person per capita</li>
+<li>Slovenia - 1 person per capita</li>
+<li>Solomon Islands - 1 person per capita</li>
+<li>Somalia - 1 person per capita</li>
+<li>South Africa - 1 person per capita</li>
+<li>South Georgia and the South Sandwich Islands - 1 person per capita</li>
+<li>South Sudan - 1 person per capita</li>
+<li>Spain - 1 person per capita</li>
+<li>Sri Lanka - 1 person per capita</li>
+<li>Sudan - 1 person per capita</li>
+<li>Suriname - 1 person per capita</li>
+<li>Svalbard and Jan Mayen - 1 person per capita</li>
+<li>Swaziland - 1 person per capita</li>
+<li>Sweden - 1 person per capita</li>
+<li>Switzerland - 1 person per capita</li>
+<li>Syrian Arab Republic - 1 person per capita</li>
+<li>Taiwan - 1 person per capita</li>
+<li>Tajikistan - 1 person per capita</li>
+<li>Tanzania, United Republic of - 1 person per capita</li>
+<li>Thailand - 1 person per capita</li>
+<li>Timor-Leste - 1 person per capita</li>
+<li>Togo - 1 person per capita</li>
+<li>Tokelau - 1 person per capita</li>
+<li>Tonga - 1 person per capita</li>
+<li>Trinidad and Tobago - 1 person per capita</li>
+<li>Tunisia - 1 person per capita</li>
+<li>Turkey - 1 person per capita</li>
+<li>Turkmenistan - 1 person per capita</li>
+<li>Turks and Caicos Islands - 1 person per capita</li>
+<li>Tuvalu - 1 person per capita</li>
+<li>Uganda - 1 person per capita</li>
+<li>Ukraine - 1 person per capita</li>
+<li>United Arab Emirates - 1 person per capita</li>
+<li>United Kingdom of Great Britain and Northern Ireland - 1 person per capita</li>
+<li>United States Minor Outlying Islands - 1 person per capita</li>
+<li>United States of America - 1 person per capita</li>
+<li>Uruguay - 1 person per capita</li>
+<li>Uzbekistan - 1 person per capita</li>
+<li>Vanuatu - 1 person per capita</li>
+<li>Venezuela (Bolivarian Republic of) - 1 person per capita</li>
+<li>Viet Nam - 1 person per capita</li>
+<li>Virgin Islands (British) - 1 person per capita</li>
+<li>Virgin Islands (U.S.) - 1 person per capita</li>
+<li>Wallis and Futuna - 1 person per capita</li>
+<li>Western Sahara - 1 person per capita</li>
+<li>Yemen - 1 person per capita</li>
+<li>Zambia - 1 person per capita</li>
+<li>Zimbabwe - 1 person per capita</li>
+<li>Åland Islands - 1 person per capita</li>
+</ol>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+      </footer>
+    </article>
+
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/startup.js" id="MathJax-script"></script>
+  <script>
+    MathJax = {
+      tex: {
+        inlineMath: [
+          ['$', '$'], ['\\(', '\\)']
+        ],
+        processEscapes: true,
+        processEnvironments: true
+      },
+      options: {
+        skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+      }
+    };
+  </script>
+  </section>
+
+      </div>
+
+      
+  <footer class="footer">
+    <section class="container">
+      
+      
+        ©
+        
+        2020
+         Mike White 
+      
+      
+         · 
+        Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+      
+      
+    </section>
+  </footer>
+
+    </main>
+
+    
+
+    
+
+    
+
+  </body>
+
+</html>

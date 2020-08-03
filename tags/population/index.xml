@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Botahamec</title>
-    <link>https://botahamec.github.io/</link>
-    <description>Recent content on Botahamec</description>
+    <title>population on Botahamec</title>
+    <link>https://botahamec.github.io/tags/population/</link>
+    <description>Recent content in population on Botahamec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Aug 2020 11:33:03 -0400</lastBuildDate>
     
-	<atom:link href="https://botahamec.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://botahamec.github.io/tags/population/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,90 +21,6 @@
 This made me want to fact-check it. Are the United States and Brazil really comparable in terms of number of people per capita? This will require some investigation.
 I created a TypeScript script to generate the numbers, so here&amp;rsquo;s then entire ranking:
  Afghanistan - 1 person per capita Albania - 1 person per capita Algeria - 1 person per capita American Samoa - 1 person per capita Andorra - 1 person per capita Angola - 1 person per capita Anguilla - 1 person per capita Antarctica - 1 person per capita Antigua and Barbuda - 1 person per capita Argentina - 1 person per capita Armenia - 1 person per capita Aruba - 1 person per capita Australia - 1 person per capita Austria - 1 person per capita Azerbaijan - 1 person per capita Bahamas - 1 person per capita Bahrain - 1 person per capita Bangladesh - 1 person per capita Barbados - 1 person per capita Belarus - 1 person per capita Belgium - 1 person per capita Belize - 1 person per capita Benin - 1 person per capita Bermuda - 1 person per capita Bhutan - 1 person per capita Bolivia (Plurinational State of) - 1 person per capita Bonaire, Sint Eustatius and Saba - 1 person per capita Bosnia and Herzegovina - 1 person per capita Botswana - 1 person per capita Bouvet Island - 1 person per capita Brazil - 1 person per capita British Indian Ocean Territory - 1 person per capita Brunei Darussalam - 1 person per capita Bulgaria - 1 person per capita Burkina Faso - 1 person per capita Burundi - 1 person per capita Cabo Verde - 1 person per capita Cambodia - 1 person per capita Cameroon - 1 person per capita Canada - 1 person per capita Cayman Islands - 1 person per capita Central African Republic - 1 person per capita Chad - 1 person per capita Chile - 1 person per capita China - 1 person per capita Christmas Island - 1 person per capita Cocos (Keeling) Islands - 1 person per capita Colombia - 1 person per capita Comoros - 1 person per capita Congo - 1 person per capita Congo (Democratic Republic of the) - 1 person per capita Cook Islands - 1 person per capita Costa Rica - 1 person per capita Croatia - 1 person per capita Cuba - 1 person per capita Curaçao - 1 person per capita Cyprus - 1 person per capita Czech Republic - 1 person per capita Côte d&amp;rsquo;Ivoire - 1 person per capita Denmark - 1 person per capita Djibouti - 1 person per capita Dominica - 1 person per capita Dominican Republic - 1 person per capita Ecuador - 1 person per capita Egypt - 1 person per capita El Salvador - 1 person per capita Equatorial Guinea - 1 person per capita Eritrea - 1 person per capita Estonia - 1 person per capita Ethiopia - 1 person per capita Falkland Islands (Malvinas) - 1 person per capita Faroe Islands - 1 person per capita Fiji - 1 person per capita Finland - 1 person per capita France - 1 person per capita French Guiana - 1 person per capita French Polynesia - 1 person per capita French Southern Territories - 1 person per capita Gabon - 1 person per capita Gambia - 1 person per capita Georgia - 1 person per capita Germany - 1 person per capita Ghana - 1 person per capita Gibraltar - 1 person per capita Greece - 1 person per capita Greenland - 1 person per capita Grenada - 1 person per capita Guadeloupe - 1 person per capita Guam - 1 person per capita Guatemala - 1 person per capita Guernsey - 1 person per capita Guinea - 1 person per capita Guinea-Bissau - 1 person per capita Guyana - 1 person per capita Haiti - 1 person per capita Heard Island and McDonald Islands - 1 person per capita Holy See - 1 person per capita Honduras - 1 person per capita Hong Kong - 1 person per capita Hungary - 1 person per capita Iceland - 1 person per capita India - 1 person per capita Indonesia - 1 person per capita Iran (Islamic Republic of) - 1 person per capita Iraq - 1 person per capita Ireland - 1 person per capita Isle of Man - 1 person per capita Israel - 1 person per capita Italy - 1 person per capita Jamaica - 1 person per capita Japan - 1 person per capita Jersey - 1 person per capita Jordan - 1 person per capita Kazakhstan - 1 person per capita Kenya - 1 person per capita Kiribati - 1 person per capita Korea (Democratic People&amp;rsquo;s Republic of) - 1 person per capita Korea (Republic of) - 1 person per capita Kuwait - 1 person per capita Kyrgyzstan - 1 person per capita Lao People&amp;rsquo;s Democratic Republic - 1 person per capita Latvia - 1 person per capita Lebanon - 1 person per capita Lesotho - 1 person per capita Liberia - 1 person per capita Libya - 1 person per capita Liechtenstein - 1 person per capita Lithuania - 1 person per capita Luxembourg - 1 person per capita Macao - 1 person per capita Macedonia (the former Yugoslav Republic of) - 1 person per capita Madagascar - 1 person per capita Malawi - 1 person per capita Malaysia - 1 person per capita Maldives - 1 person per capita Mali - 1 person per capita Malta - 1 person per capita Marshall Islands - 1 person per capita Martinique - 1 person per capita Mauritania - 1 person per capita Mauritius - 1 person per capita Mayotte - 1 person per capita Mexico - 1 person per capita Micronesia (Federated States of) - 1 person per capita Moldova (Republic of) - 1 person per capita Monaco - 1 person per capita Mongolia - 1 person per capita Montenegro - 1 person per capita Montserrat - 1 person per capita Morocco - 1 person per capita Mozambique - 1 person per capita Myanmar - 1 person per capita Namibia - 1 person per capita Nauru - 1 person per capita Nepal - 1 person per capita Netherlands - 1 person per capita New Caledonia - 1 person per capita New Zealand - 1 person per capita Nicaragua - 1 person per capita Niger - 1 person per capita Nigeria - 1 person per capita Niue - 1 person per capita Norfolk Island - 1 person per capita Northern Mariana Islands - 1 person per capita Norway - 1 person per capita Oman - 1 person per capita Pakistan - 1 person per capita Palau - 1 person per capita Palestine, State of - 1 person per capita Panama - 1 person per capita Papua New Guinea - 1 person per capita Paraguay - 1 person per capita Peru - 1 person per capita Philippines - 1 person per capita Pitcairn - 1 person per capita Poland - 1 person per capita Portugal - 1 person per capita Puerto Rico - 1 person per capita Qatar - 1 person per capita Republic of Kosovo - 1 person per capita Romania - 1 person per capita Russian Federation - 1 person per capita Rwanda - 1 person per capita Réunion - 1 person per capita Saint Barthélemy - 1 person per capita Saint Helena, Ascension and Tristan da Cunha - 1 person per capita Saint Kitts and Nevis - 1 person per capita Saint Lucia - 1 person per capita Saint Martin (French part) - 1 person per capita Saint Pierre and Miquelon - 1 person per capita Saint Vincent and the Grenadines - 1 person per capita Samoa - 1 person per capita San Marino - 1 person per capita Sao Tome and Principe - 1 person per capita Saudi Arabia - 1 person per capita Senegal - 1 person per capita Serbia - 1 person per capita Seychelles - 1 person per capita Sierra Leone - 1 person per capita Singapore - 1 person per capita Sint Maarten (Dutch part) - 1 person per capita Slovakia - 1 person per capita Slovenia - 1 person per capita Solomon Islands - 1 person per capita Somalia - 1 person per capita South Africa - 1 person per capita South Georgia and the South Sandwich Islands - 1 person per capita South Sudan - 1 person per capita Spain - 1 person per capita Sri Lanka - 1 person per capita Sudan - 1 person per capita Suriname - 1 person per capita Svalbard and Jan Mayen - 1 person per capita Swaziland - 1 person per capita Sweden - 1 person per capita Switzerland - 1 person per capita Syrian Arab Republic - 1 person per capita Taiwan - 1 person per capita Tajikistan - 1 person per capita Tanzania, United Republic of - 1 person per capita Thailand - 1 person per capita Timor-Leste - 1 person per capita Togo - 1 person per capita Tokelau - 1 person per capita Tonga - 1 person per capita Trinidad and Tobago - 1 person per capita Tunisia - 1 person per capita Turkey - 1 person per capita Turkmenistan - 1 person per capita Turks and Caicos Islands - 1 person per capita Tuvalu - 1 person per capita Uganda - 1 person per capita Ukraine - 1 person per capita United Arab Emirates - 1 person per capita United Kingdom of Great Britain and Northern Ireland - 1 person per capita United States Minor Outlying Islands - 1 person per capita United States of America - 1 person per capita Uruguay - 1 person per capita Uzbekistan - 1 person per capita Vanuatu - 1 person per capita Venezuela (Bolivarian Republic of) - 1 person per capita Viet Nam - 1 person per capita Virgin Islands (British) - 1 person per capita Virgin Islands (U.</description>
-    </item>
-    
-    <item>
-      <title>Trolley Problem Memes, Explained</title>
-      <link>https://botahamec.github.io/posts/20_07_08_trolley_problem_memes/</link>
-      <pubDate>Wed, 08 Jul 2020 15:57:43 -0400</pubDate>
-      
-      <guid>https://botahamec.github.io/posts/20_07_08_trolley_problem_memes/</guid>
-      <description>Several Trolley Problem Memes, Explained You&amp;rsquo;ve probably heard of the Trolley Problem, if not let me explain.
-The Trolley Problem, Explained There&amp;rsquo;s a trolley charging down the tracks. It&amp;rsquo;s heading towards a path with five people on it. If nothing is done, these people will surely be doomed.
-GOOD NEWS! There just happens to be a lever which switch the tracks to a different path, thus causing the train to miss five people.</description>
-    </item>
-    
-    <item>
-      <title>Was Kira Right?</title>
-      <link>https://botahamec.github.io/posts/20_06_27_death_note/</link>
-      <pubDate>Sat, 27 Jun 2020 10:57:43 -0400</pubDate>
-      
-      <guid>https://botahamec.github.io/posts/20_06_27_death_note/</guid>
-      <description>Last semester, I took a class called, Intro to Moral Issues. One of the assignments we did was a &amp;ldquo;Contemporary Controversy&amp;rdquo;. Each person in the class had to pick a philosophical or political topic and write an essay to convince the class of their position. The professor made it clear that topics relating to media are allowed1.
-As it happened, the week before I found out about this, I became curious and read all of the rules of the Death Note.</description>
-    </item>
-    
-    <item>
-      <title>Police Brutality</title>
-      <link>https://botahamec.github.io/posts/20_06_04_justice/</link>
-      <pubDate>Wed, 03 Jun 2020 16:37:20 -0400</pubDate>
-      
-      <guid>https://botahamec.github.io/posts/20_06_04_justice/</guid>
-      <description>This article is a mess. Sorry.
-Background Initially, I was planning on skipping this part. Partly because I figured everyone would know what I&amp;rsquo;m talking about, and partly because I don&amp;rsquo;t really know how to explain it. Although, people reading this in the future will probably need an explanation, so here it is. Instead of explaining it myself, I&amp;rsquo;ll let others explain it for me. Here&amp;rsquo;s a bunch of videos you can watch:</description>
-    </item>
-    
-    <item>
-      <title>Ideas for Projects to Do</title>
-      <link>https://botahamec.github.io/posts/20_06_03_project_ideas/</link>
-      <pubDate>Wed, 03 Jun 2020 10:13:42 -0400</pubDate>
-      
-      <guid>https://botahamec.github.io/posts/20_06_03_project_ideas/</guid>
-      <description>I have a lot of ideas for future projects. I&amp;rsquo;ll probably never get to do most of them. So let me list some of them so that you may give them a try.
-Sudoku Solver Yes, I know many people have done this already. I really like the idea though so I wanna try it without looking at other people&amp;rsquo;s solutions. Of course, you&amp;rsquo;re free to do it in whatever way you like, but you&amp;rsquo;ll probably need a GUI for it.</description>
-    </item>
-    
-    <item>
-      <title>New Website! Hooray!</title>
-      <link>https://botahamec.github.io/posts/20_06_02_new_site/</link>
-      <pubDate>Tue, 02 Jun 2020 10:13:42 -0400</pubDate>
-      
-      <guid>https://botahamec.github.io/posts/20_06_02_new_site/</guid>
-      <description>Hello, everyone! Welcome to my new site. If you&amp;rsquo;ve seen the old one, then you know that looked remarkably terrible. Not only did it look like a dump, it was horrible to work with. Have you ever tried doing pure HTML code blocks? It&amp;rsquo;s a pain. Now that issue is fixed by using MARKDOWN! Look at this:
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15  fn main() { const MAX_NUM = 40; let mut a = 0; let mut b = 1; let mut c; for _i in 0.</description>
-    </item>
-    
-    <item>
-      <title>chalk-rs</title>
-      <link>https://botahamec.github.io/projects/chalk_rs/</link>
-      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://botahamec.github.io/projects/chalk_rs/</guid>
-      <description>A crate for terminal colors and styles
-1 2 3 4  use chalk_rs::Chalk; let mut chalk = Chalk::new(); chalk.red().println(&amp;amp;&amp;#34;This text is red&amp;#34;); chalk.bold().println(&amp;amp;&amp;#34;Now it&amp;#39;s red AND bold&amp;#34;);   That&amp;rsquo;s an example of basic color. There are three types of color in chalk: BasicChalk, AnsiChalk, and RgbChalk.
-1 2 3 4  use chalk_rs::Chalk; let mut chalk = Chalk::new(); chalk.ansi(56).println(&amp;amp;&amp;#34;Purple-ish&amp;#34;); chalk.rgb(25, 125, 63).println(&amp;amp;&amp;#34;This color is ugly&amp;#34;);   Chalk can aldo do styling!</description>
-    </item>
-    
-    <item>
-      <title>Pronoun Testing Grounds</title>
-      <link>https://botahamec.github.io/projects/pronoun_test/</link>
-      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://botahamec.github.io/projects/pronoun_test/</guid>
-      <description>https://botahamec.github.io/pronoun_test
-About This project was created for 43 North&amp;rsquo;s Code:Buffalo hackathon. It&amp;rsquo;s goal is to help people questioning their gender to try different sets of pronouns and see how they like them. This is similar to the technique of trying out names at Starbucks. It&amp;rsquo;s inspired by the Pronoun Dressing Room, which unfortunately has a limited number of stories. This version creates a new story each time.
-How it Works The webpage uses HTML, CSS, and TypeScript.</description>
-    </item>
-    
-    <item>
-      <title>Elp</title>
-      <link>https://botahamec.github.io/projects/elp/</link>
-      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://botahamec.github.io/projects/elp/</guid>
-      <description>A helper for git to make some mundane tasks simpler. When you create an empty Github repository normally, you need to do five commands to get your local folder on the remote repository. This application simplifies things dramatically by giving commands which do these things for you automatically.
-Building In order to build this, you&amp;rsquo;ll need to have Cargo (the Rust compiler) and Git pre-installed.
- Clone the repository git clone https://github.</description>
     </item>
     
   </channel>
